@@ -12,9 +12,9 @@ smtp_port = 465
 imap_addr = 'imap.gmail.com'
 imap_port = 993
 
-username = 'smtpwno@gmail.com'
-password = 'ygsygzttdqbcekjp'
-auto_rec_addr = 'kpilarski21@gmail.com'
+username = ''
+password = ''
+auto_rec_addr = ''
 
 
 class EmailClient(QMainWindow):
